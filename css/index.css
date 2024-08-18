@@ -705,7 +705,7 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:90%;
+    width:60%;
     border-radius: 10px;
     background: #c70039;
 }
